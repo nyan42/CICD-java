@@ -1,4 +1,4 @@
-package cicd.learn.tp1;
+package test.java.cicd.learn.tp1;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

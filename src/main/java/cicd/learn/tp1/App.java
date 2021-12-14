@@ -1,4 +1,4 @@
-package cicd.learn.tp1;
+package main.java.cicd.learn.tp1;
 
 /**
  * Hello world!
